@@ -2,6 +2,27 @@
 
 統一非資訊專業人士在中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強文本氣質。
 
+## 目錄
+
+- [空格](#空格)
+    - [中文與英文、數字之間需要增加空格](#中文與英文、數字之間需要增加空格)
+    - [數字與單位之間需要增加空格](#數字與單位之間需要增加空格)
+    - [全形標點與其他字符之間不加空格](#全形標點與其他字符之間不加空格)
+    - [一般文字與超連結之間不加空格](#一般文字與超連結之間不加空格)
+- [標點符號](#標點符號)
+    - [不重複使用標點符號](#不重複使用標點符號)
+- [全形和半形](#全形和半形)
+    - [使用全形中文標點](#使用全形中文標點)
+    - [數字使用半形字符](#數字使用半形字符)
+    - [遇到完整的英文整句、特殊名詞，其內容使用半形標點](#遇到完整的英文整句、特殊名詞，其內容使用半形標點)
+- [名詞](#名詞)
+    - [專有名詞使用正確的大小寫](#專有名詞使用正確的大小寫)
+    - [不要使用不道地的縮寫](#不要使用不道地的縮寫)
+- [誰在這樣做？](#誰在這樣做？)
+- [參考文獻](#參考文獻)
+- [文本來源](#文本來源)
+- [分岔](#分岔)
+
 -----
 
 ## 空格
@@ -51,9 +72,19 @@
 
 錯誤：
 
-> 剛剛買了一部 iPhone ，好開心！
+> 剛剛買了一部 iPhone` `，好開心！
 
-> 剛剛買了一部 iPhone， 好開心！
+> 剛剛買了一部 iPhone，` `好開心！
+
+### 一般文字與超連結之間不加空格
+
+正確：
+
+> 訪問我們網站的最新動態，請[點擊這裏]()進行訂閱！
+
+對比：
+
+> 訪問我們網站的最新動態，請 [點擊這裏]() 進行訂閱！
 
 ## 標點符號
 
@@ -65,7 +96,7 @@
 
 > 德國隊竟然戰勝了巴西隊！
 
-> 她竟然對你說「喵」？！
+> 她竟然對你説「喵」？！
 
 錯誤：
 
@@ -73,9 +104,9 @@
 
 > 德國隊竟然戰勝了巴西隊！！！！！！！！
 
-> 她竟然對你說「喵」？？！！
+> 她竟然對你説「喵」？？！！
 
-> 她竟然對你說「喵」？！？！？？！！
+> 她竟然對你説「喵」？！？！？？！！
 
 ## 全形和半形
 
@@ -102,10 +133,10 @@
 > （使用了英文標點符號「!」「?」「"」）
 
 > 核磁共振成像 (NMRI) 是什麼原理都不知道? JFGI!
-> （使用了英文標點符號「!」「?」）
+> （使用了英文標點符號「?」「!」）
 
 > 核磁共振成像(NMRI)是什麼原理都不知道?JFGI!
-> （使用了英文標點符號「!」「?」）
+> （使用了英文標點符號「(」「)」「?」「!」）
 
 ### 數字使用半形字符
 
@@ -138,7 +169,7 @@
 
 ### 專有名詞使用正確的大小寫
 
-大小寫相關用法原屬於英文書寫範疇，不屬於本指北討論內容，在這裡只對部分易錯用法進行簡述。
+大小寫相關用法原屬於英文書寫範疇，不屬於本指北討論內容，在這裏只對部分易錯用法進行簡述。
 
 正確：
 
@@ -180,19 +211,19 @@
 
 ## 誰在這樣做？
 
-網站 | 文案 | UGC
+網站 | 文案 | 用戶生成內容（UGC）
 --- | --- | ---
-[Apple 中國](https://www.apple.com/cn/) | Yes | N/A
-[Apple 香港](https://www.apple.com/hk/) | Yes | N/A
-[Apple 台灣](https://www.apple.com/tw/) | Yes | N/A
-[Microsoft 中國](https://www.microsoft.com/zh-cn/) | Yes | N/A
-[Microsoft 香港](https://www.microsoft.com/zh-hk/) | Yes | N/A
-[Microsoft 台灣](https://www.microsoft.com/zh-tw/) | Yes | N/A
-[LeanCloud](https://leancloud.cn/) | Yes | N/A
-[V2EX](https://www.v2ex.com/) | Yes | Yes
-[Apple4us](https://apple4us.com/) | Yes | N/A
-[Ruby China](https://ruby-china.org/) | Yes | Yes
-[少數派](https://sspai.com/) | Yes | N/A
+[Apple 中國](https://www.apple.com/cn/) | 是 | 不適用
+[Apple 香港](https://www.apple.com/hk/) | 是 | 不適用
+[Apple 台灣](https://www.apple.com/tw/) | 是 | 不適用
+[Microsoft 中國](https://www.microsoft.com/zh-cn/) | 是 | 不適用
+[Microsoft 香港](https://www.microsoft.com/zh-hk/) | 是 | 不適用
+[Microsoft 台灣](https://www.microsoft.com/zh-tw/) | 是 | 不適用
+[LeanCloud](https://leancloud.cn/) | 是 | 不適用
+[V2EX](https://www.v2ex.com/) | 是 | 是
+[Apple4us](https://apple4us.com/) | 是 | 不適用
+[Ruby China](https://ruby-china.org/) | 是 | 是
+[少數派](https://sspai.com/) | 是 | 不適用
 
 ## 參考文獻
 
@@ -212,6 +243,6 @@
 
 [^1]: [Google](https://zh.wikipedia.org/w/index.php?title=Google&oldid=87287062)。[維基百科](https://zh.wikipedia.org/wiki/Wikipedia:首页)。取自 2025 年。5 月 14 日 (星期三) 15:50 版本，在 [CC BY-SA 4.0](https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_4.0协议文本) 之條款下使用。
 
-## Forks
+## 分岔
 
-此指北分岔自 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)。
+此指北分岔自 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)。原專案的用法與本頁可能存在差異。
